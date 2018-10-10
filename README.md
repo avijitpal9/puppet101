@@ -11,5 +11,5 @@
 
 
 ### Setup
-- spin up vagrant machines
-   vagrant up
+*  Spin up vagrant machines
+   - vagrant up
