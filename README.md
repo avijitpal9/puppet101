@@ -8,3 +8,8 @@
 
   - Install vagrant-vbguest plugin. Execute the below command.
     vagrant plugin install vagrant-vbguest
+
+
+### Setup
+- spin up vagrant machines
+   vagrant up
